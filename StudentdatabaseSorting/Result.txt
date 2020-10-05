@@ -1,0 +1,14 @@
+
+STUDENTS REPORT --- Sorted by Total Marks
+---------------------------------------------------------
+7 Guna 10 12 43 99 34 198 39.60 Result : FAIL
+2 Bala 40 50 55 78 65 288 57.60 Result : FAIL
+1 Arun 50 56 65 78 50 299 59.80 Result : PASS
+9 mani 60 60 60 60 60 300 60.00 Result : PASS
+5 Gowshik 55 67 87 99 65 373 74.60 Result : PASS
+10 senthil 78 98 54 66 77 373 74.60 Result : PASS
+4 Gokul 90 89 77 54 100 410 82.00 Result : PASS
+3 Dinesh 80 56 90 100 100 426 85.20 Result : PASS
+8 Rajan 45 88 99 99 99 430 86.00 Result : FAIL
+6 jex 100 100 100 100 100 500 100.00 Result : PASS
+---------------------------------------------------------
